@@ -7,4 +7,3 @@ export class ColorPoint extends Point{
     }
     color: string;
 }
-export {Point}
